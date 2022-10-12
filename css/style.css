@@ -1,0 +1,40 @@
+[class*="__container"]{
+	max-width: 1230px;
+	margin: 0 auto;
+}
+.page__title h1 {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	align-items: center;
+}
+.createx__title h2 {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1E212C;
+}
+.courses__title h2 {
+	font-weight: 900;
+	line-height: 130%;
+	font-size: 46px;
+	color: #1E212C;
+}
+.benefits__title h2 {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1E212C;
+}
+.page {
+	margin-bottom: 50px;
+}
+.createx {
+	margin-bottom: 50px;
+}
+.courses{
+	margin-bottom: 50px;
+}
+.benefits{
+	margin-bottom: 50px;
+}
